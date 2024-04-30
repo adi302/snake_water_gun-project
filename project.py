@@ -23,10 +23,10 @@ else:
 
 #Determine the winner
 
-#          0 1 2
-#        0 D L W 
-#        1 W D L
-#        2 L W D
+# player =    0 1 2
+# compter = 0 D L W 
+#           1 W D L
+#           2 L W D
 
 # Total_outcomes = [[0,0][0,1][0,2][1,0][1,1][1,2][2,0][2,1][2,2]]
 
