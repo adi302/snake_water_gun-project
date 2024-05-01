@@ -1,7 +1,7 @@
 import random 
 
 # Get user input
-player_choice = int(input("choose from options:\n0.snake\n1.water\n2.gun\n"))
+player_choice = int(input("0.snake\n1.water\n2.gun\nchoose from options:"))
 
 # Determine user's choice
 if player_choice == 0:
